@@ -1,9 +1,0 @@
-Funções crias por usuário:
-
-1-Fução sem retorno e sem parametro
-2-Função sem retorno e com parametro
-3-Função com retorno sem parametro
-4-Função com parametro e com retorno
-
-Funções Built-in
-Funções:https://www.php.net/manual/pt_BR/funcref.php
